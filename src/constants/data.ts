@@ -38,7 +38,6 @@ export const PROJECTS: Project[] = [
     longDescription: "Aplicação full stack que permite ao usuário registrar transações e receber análises inteligentes geradas por IA. Implementei autenticação completa com Supabase, gráficos com Recharts e integração com OpenAI para geração de insights.",
     tags: ["Next.js", "TypeScript", "Supabase", "OpenAI", "Recharts"],
     category: "fullstack",
-    liveUrl: "https://finance-tracker.vercel.app",
     githubUrl: "https://github.com/kaiozzzz/ai-finance-tracker",
     featured: true,
     year: 2025,
