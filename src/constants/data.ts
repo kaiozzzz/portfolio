@@ -50,10 +50,11 @@ export const PROJECTS: Project[] = [
     longDescription: "Ferramenta de gestão de tarefas com atualizações em tempo real via Supabase Realtime. Implementei drag-and-drop com dnd-kit, presença de usuários online e sistema de notificações.",
     tags: ["Next.js", "Supabase Realtime", "dnd-kit", "TypeScript", "Framer Motion"],
     category: "fullstack",
+    liveUrl: "https://kanban-realtime-five.vercel.app",
     githubUrl: "https://github.com/kaiozzzz/kanban-realtime",
     featured: true,
     year: 2025,
-    status: "in-progress",
+    status: "completed",
   },
   {
     id: "landing-ai",
